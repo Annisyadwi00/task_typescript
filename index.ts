@@ -1,4 +1,4 @@
-// 25 Variables with primitive types
+// 25 Variables 
 let age: number = 25;
 let pi: number = 3.14;
 let isStudent: boolean = true;
@@ -25,7 +25,7 @@ let anotherString: string = "Typescript";
 let anotherBool: boolean = true;
 let anotherUndefined: undefined = undefined;
 
-// Methods for arithmetic operations
+
 function addition(a: number, b: number): number {
     return a + b;
 }
@@ -45,8 +45,8 @@ function division(a: number, b: number): number {
     return a / b;
 }
 
-// Example usage:
-console.log(addition(5, 10));         // Output: 15
-console.log(subtraction(10, 5));      // Output: 5
-console.log(multiplication(4, 6));    // Output: 24
-console.log(division(20, 5));         // Output: 4
+
+console.log(addition(5, 10));         
+console.log(subtraction(10, 5));      
+console.log(multiplication(4, 6));    
+console.log(division(20, 5));         
