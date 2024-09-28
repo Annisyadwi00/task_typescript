@@ -45,7 +45,6 @@ function division(a: number, b: number): number {
     return a / b;
 }
 
-
 console.log(addition(5, 10));         
 console.log(subtraction(10, 5));      
 console.log(multiplication(4, 6));    
